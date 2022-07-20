@@ -246,7 +246,7 @@ Responsive Styles
     background-color: transparent;
   }
   .blog-indicator a {
-    border: 1px solid rgba(128, 128, 128, 0.5);
+    border: 1px solid rgba(128, 128, 128, 0.3);
   }
   .blog-card-wrapper {
     width: 100%;
@@ -284,9 +284,11 @@ Responsive Styles
   .blog-indicator {
     flex-direction: row;
     align-items: center;
+    background-color: transparent;
   }
   .blog-indicator a {
     width: 150px;
+    border: 1px solid rgba(128, 128, 128, 0.3);
   }
   .blog-card-wrapper {
     width: 100%;
